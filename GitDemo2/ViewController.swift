@@ -9,13 +9,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
+    let text = "second commit"
 
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print(firtsCommit)
         
     }
 
